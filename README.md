@@ -60,7 +60,7 @@
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00FF41" alt="Twitter" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:sharma.dksh01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail" />
   </a>
   <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
